@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Practicing creating a gem}
   spec.description   = %q{Creating a gem to demo}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/stuckiest/wordify_stuckiest"
   spec.license       = "MIT"
 
   # # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
